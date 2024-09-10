@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCSharp", "LearnCSharp\LearnCSharp.csproj", "{93D9FB98-166B-4DF9-9041-CC887378B34C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericDataTypes", "NumericDataTypes\NumericDataTypes.csproj", "{47B3EE76-D70D-4D73-A32E-E422B7B5E46B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{93D9FB98-166B-4DF9-9041-CC887378B34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93D9FB98-166B-4DF9-9041-CC887378B34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93D9FB98-166B-4DF9-9041-CC887378B34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B3EE76-D70D-4D73-A32E-E422B7B5E46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B3EE76-D70D-4D73-A32E-E422B7B5E46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B3EE76-D70D-4D73-A32E-E422B7B5E46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B3EE76-D70D-4D73-A32E-E422B7B5E46B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
