@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCSharp", "LearnCSharp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericDataTypes", "NumericDataTypes\NumericDataTypes.csproj", "{47B3EE76-D70D-4D73-A32E-E422B7B5E46B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBasedDataTypes", "TextBasedDataTypes\TextBasedDataTypes.csproj", "{F4C5EE5E-249F-4BA3-9C81-AF1F7EDA4B4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{47B3EE76-D70D-4D73-A32E-E422B7B5E46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47B3EE76-D70D-4D73-A32E-E422B7B5E46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47B3EE76-D70D-4D73-A32E-E422B7B5E46B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C5EE5E-249F-4BA3-9C81-AF1F7EDA4B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C5EE5E-249F-4BA3-9C81-AF1F7EDA4B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C5EE5E-249F-4BA3-9C81-AF1F7EDA4B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C5EE5E-249F-4BA3-9C81-AF1F7EDA4B4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
